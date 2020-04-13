@@ -1,6 +1,6 @@
 <head>
 	<?php include('../localhost.php') ?>
-    <title>Test Developer PHP</title>
+    <title>Base Webpack</title>
     <meta name="author" content="Base Webpack">
     <meta name="description" content="Base Webpack">
     <meta name="keywords" content="Base Webpack">
