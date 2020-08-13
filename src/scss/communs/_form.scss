@@ -1,0 +1,21 @@
+.form-site {
+	margin-bottom: 10px;
+
+	.form-group {
+		margin-bottom: 15px;
+
+		.form-label {
+			@extend .gBook;
+
+			font-size: 10px;
+			margin-bottom: 5px;
+			color: $color-text;
+		}
+
+		.form-control {
+			border-radius: 5px;
+			border: 1px solid #B9B9B9;
+			height: 40px;
+		}
+	}
+}

@@ -1,15 +1,15 @@
-a {
-	&:hover {
-		text-decoration: none;
-	}
-}
-
-button {
-	&:focus {
-		outline: none;
-	}
-}
-
 body {
+	background-color: $gray-lt;
+	
+	a {
+		&:hover {
+			text-decoration: none;
+		}
+	}
 
+	button {
+		&:focus {
+			outline: none;
+		}
+	}
 }

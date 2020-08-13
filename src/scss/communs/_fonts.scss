@@ -1,0 +1,67 @@
+@font-face {
+  font-family: "GothamPro";
+  src: url("/fonts/GothamPro-Book.eot"); /* IE9 Compat Modes */
+  src: url("/fonts/GothamPro-Book.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("/fonts/GothamPro-Book.otf") format("opentype"), /* Open Type Font */
+    url("/fonts/GothamPro-Book.svg") format("svg"), /* Legacy iOS */
+    url("/fonts/GothamPro-Book.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("/fonts/GothamPro-Book.woff") format("woff"), /* Modern Browsers */
+    url("/fonts/GothamPro-Book.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "GothamPro-Medium";
+  src: url("/fonts/GothamPro-Medium.eot"); /* IE9 Compat Modes */
+  src: url("/fonts/GothamPro-Medium.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("/fonts/GothamPro-Medium.otf") format("opentype"), /* Open Type Font */
+    url("/fonts/GothamPro-Medium.svg") format("svg"), /* Legacy iOS */
+    url("/fonts/GothamPro-Medium.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("/fonts/GothamPro-Medium.woff") format("woff"), /* Modern Browsers */
+    url("/fonts/GothamPro-Medium.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "GothamPro-Light";
+  src: url("/fonts/GothamPro-Light.eot"); /* IE9 Compat Modes */
+  src: url("/fonts/GothamPro-Light.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("/fonts/GothamPro-Light.otf") format("opentype"), /* Open Type Font */
+    url("/fonts/GothamPro-Light.svg") format("svg"), /* Legacy iOS */
+    url("/fonts/GothamPro-Light.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("/fonts/GothamPro-Light.woff") format("woff"), /* Modern Browsers */
+    url("/fonts/GothamPro-Light.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "GothamPro-Black";
+  src: url("/fonts/GothamPro-Black.eot"); /* IE9 Compat Modes */
+  src: url("/fonts/GothamPro-Black.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("/fonts/GothamPro-Black.otf") format("opentype"), /* Open Type Font */
+    url("/fonts/GothamPro-Black.svg") format("svg"), /* Legacy iOS */
+    url("/fonts/GothamPro-Black.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("/fonts/GothamPro-Black.woff") format("woff"), /* Modern Browsers */
+    url("/fonts/GothamPro-Black.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: 800;
+  font-style: normal;
+}
+
+.gBook {
+  font-family: "GothamPro";
+}
+
+.gLight {
+  font-family: "GothamPro-Light";
+}
+
+.gMedium {
+  font-family: "GothamPro-Medium";
+}
+
+.gBlack {
+  font-family: "GothamPro-Black";
+}
